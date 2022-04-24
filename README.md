@@ -1,3 +1,7 @@
-## MY CV
+# CV 24/04/2022
 
-# TEST TEST
+# Harry Ritchie, Data Scientist
+
+### Links
+
+[LinkedIn](https://www.linkedin.com/in/fpritchie/)
