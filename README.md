@@ -8,7 +8,7 @@
 
 ## Professional Experience 
 ### Ottobock GmbH iFab: Data Analytics Expert 02/2021 - Current 
-- Developed on existing 3D scanning technology by using Machine Learning tools to improve quality and resolution of an affordable 3D scanner. 
+- Developed on existing 3D scanning technology by using Machine Learning models to improve quality and resolution of an affordable 3D scanner. 
 - Improved testing of 3D scanning products for orthotics by developing an automation platform that allows medical professionals to automate statistical analyses for a variety of prosthetics and orthotics.
 - Lead and drove the implementation of a 1 million euro research project focused on Industry 4.0 for scan-to-print applications. Our proposed applications generates valuable data to enhance and speed up lower-limb prosthetic fitting process: achieving a one-time patient visit. 
 -  Creation of Data Science strategy within iFab; increasing reproducability, data literacy and assessment of Data Science projects.
