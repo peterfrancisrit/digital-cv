@@ -25,7 +25,7 @@
   
 ## My Toolbox
 | Primary Tasks | Common Patterns |
-| ---- | ---- |
+| :---- | :---- |
 | Cloud Development (Azure) | - Deployment of Azure Functions <br> - Deploying   Container Instances and Groups <br> - CI/CD Azure Devops Pipelines and automation |
 | Database Tooling | - Deployment of Relational Databases and automation (ARM scripts). <br> - DBT modeling for transformation processes to createa feature tables for models, descriptive platforms (Dashboards)
 | Modeling | - Question based notebook experiments; shared for full-team transparency. <br> - Close communication with domain experts to determine key model metrics and relationships to business goals. <br> - Deployment of models as REST APIs: as an Azure Function, or Container Instance. 
