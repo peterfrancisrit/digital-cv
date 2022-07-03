@@ -5,6 +5,7 @@
 
 [LinkedIn](https://www.linkedin.com/in/fpritchie/)
 
+
 ## Professional Experience 
 ### Ottobock GmbH iFab: Data Analytics Expert 02/2021 - Current 
 - Developed on existing 3D scanning technology by using Machine Learning tools to improve quality and resolution of an affordable 3D scanner. 
@@ -13,7 +14,7 @@
 -  Creation of Data Science strategy within iFab; increasing reproducability, data literacy and assessment of Data Science projects.
 -  Working closely with partners in France on a cost-effective 3D landmark detection model.
 
-### PREA GmbH: Data Scientist / Data Engineering 02/2020 - 02/2021
+### PREA GmbH: Data Scientist 02/2020 - 02/2021
 - Improved real estate listings with the use of Google Places API; generating liveability scores for customers. 
 - Development of social clusters and designing inferential studies to generate insights: families associate with distance from schools and supermarkets. These clusters aided in driving PREA's AI engine, Mercury.
   
@@ -25,6 +26,7 @@
 - Identifying user groups to improve staff planning and cater to shoppers based on their specific behaviour. For example, learning from the "small item shoppers": improving their shopping experience by making their quick shop as accessible and pain free as possible; encouraging customers to continue shopping with selected supermarkets.
   
 ## My Toolbox
+
 | Primary Tasks | Common Patterns |
 | :---- | :---- |
 | Cloud Development (Azure) | - Deployment of Azure Functions <br> - Deploying   Container Instances and Groups <br> - CI/CD Azure Devops Pipelines and automation <br> - The L in ETL/ELT pipelines |
