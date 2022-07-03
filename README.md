@@ -21,7 +21,6 @@
 - Identifying user groups to improve staff planning and cater to shoppers based on their specific behaviour. For example, learning from the "small item shoppers": improving their shopping experience by making their quick shop as accessible and pain free as possible; encouraging customers to continue shopping with selected supermarkets. <br><br>
 ## My Toolbox
 | Primary Tasks | Common Patterns |
-
 | ---- | ---- |
 | Cloud Development (Azure) | - Deployment of Azure Functions <br> - Deploying   Container Instances and Groups <br> - CI/CD Azure Devops Pipelines and automation |
 | Database Tooling | - Deployment of Relational Databases and automation (ARM scripts). <br> - DBT modeling for transformation processes to createa feature tables for models, descriptive platforms (Dashboards)
